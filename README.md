@@ -11,7 +11,7 @@
 - 🌱 Learned Python, Java, DSA, HTML and CSS.
 - 💡 Interested in problem-solving and building practical projects.
 - 🎯 Goal: Become a skilled software developer.
-- 📫 Contact: your- prakashkumarrai505@gmail.com
+- 📫 Contact:prakashkumarrai505@gmail.com
 
 🛠️ Tech Stack
 
