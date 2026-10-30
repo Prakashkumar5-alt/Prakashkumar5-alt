@@ -102,16 +102,21 @@ My first group project: An online examination platform designed for multiple ins
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prakashkumar5-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=Prakashkumar5-alt&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashkumar5-alt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prakashkumar5-alt&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Prakashkumar5-alt&theme=tokyonight&hide_border=true" />
+  <img width="70%"
+  src="https://streak-stats.demolab.com?user=Prakashkumar5-alt&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"/>
 </p>
 
----
 
 <!-- ========== ACTIVITY GRAPH ========== -->
 
